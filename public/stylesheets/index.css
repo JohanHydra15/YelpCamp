@@ -1,0 +1,29 @@
+h1 {
+	color: white;
+} /*change color of "Welcome to YelpCamp"*/
+
+.card {
+	color: lightgray;
+	background-color: #696b6d;
+}
+
+.card-body a {
+	color: lightgrey;
+}
+
+.card-body a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+.jumbotron {
+	background-color: #575859;
+	color: lightgray;
+	font-weight: 100;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.jumbotron h1 {
+	font-weight: normal;
+}

@@ -1,0 +1,20 @@
+hr {
+	border-color: white;
+} /*make line-break white*/
+
+h4 {
+	color: lightgray;
+} /*make yelpcamp subheading a lighter color*/
+
+.red {
+	color: red;
+}
+
+.fa-star {
+	color: red;
+}
+
+.card {
+	color: lightgray;
+	background-color: #696b6d;
+}
